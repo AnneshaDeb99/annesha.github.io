@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://annesha.github.io/AnneshaDeb99/sitemap.xml
+Sitemap: https://AnneshaDeb99.github.io/annesha.github.io/sitemap.xml
